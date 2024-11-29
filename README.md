@@ -15,6 +15,7 @@ Currently, we are supporting the following devices actively:
 - Hardware Development Kit for the Snapdragon 855 (HDK855/HDK8150)
 - Qualcomm Reference Design Device for the Snapdragon 855 (QRD855/QRD8150)
 - Qualcomm Reference Design Device for the Snapdragon 888 (QRD888/QRD8350)
+- Qualcomm Reference Design Device for the Snapdragon 778G (QRD778G/QRD7325)
 
 ## Resources
 
