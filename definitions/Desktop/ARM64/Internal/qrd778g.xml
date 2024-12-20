@@ -25,7 +25,7 @@
       <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Drivers\Cellular\DiagCSI" Name="qcdiagcsi7280.inf" ID="qcdiagcsi7280"/>
       <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Drivers\Cellular\ThermalMDM" Name="qcthermalmdm7280.inf" ID="qcthermalmdm7280"/>
       <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Drivers\Cellular\IPCRouter" Name="qcipcrouter7280.inf" ID="qcipcrouter7280"/>
-      <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Drivers\HWNLED" Name="qchwnled7280.inf" ID="qchwnled7280"/>
+      <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Drivers\SOC\LED" Name="qchwnled7280.inf" ID="qchwnled7280"/>
       <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Drivers\Shutdown" Name="qcshutdownsvc.inf" ID="qcshutdownsvc"/>
 	  <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Drivers\Battery\BatteryMiniclass" Name="qcbattminiclass7280.inf" ID="qcbattminiclass7280"/>
       <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Drivers\Battery\BatteryCurrentLimiter" Name="qcfgbcl7280.inf" ID="qcfgbcl7280"/>
@@ -112,7 +112,7 @@
       <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Extensions\Subsystems\Compute" Name="qcsubsys_ext_cdsp7280.inf" ID="qcsubsys_ext_cdsp7280"/>
       <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Extensions\PMIC\Core" Name="qcpmicext7280.inf" ID="qcpmicext7280"/>
       <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Extensions\PMIC\BatteryCurrentLimiter" Name="qcfgbclext7280.inf" ID="qcfgbclext7280"/>
-      <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Extensions\Sensors\IDP" Name="qcSensorsConfigIdp7280.inf" ID="qcSensorsConfigIdp7280"/>
+      <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Extensions\Sensors\QRD" Name="qcSensorsConfig7280.inf" ID="qcSensorsConfig7280"/>
       <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Extensions\SARConfig" Name="qsarconfig7280.inf" ID="qsarconfig7280"/>
       <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Extensions\WLAN\WPSS" Name="qcwlan_ext_wpss7280.inf" ID="qcwlan_ext_wpss7280"/>
       <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Extensions\WLAN\WLAN" Name="qcwlan_ext7280.inf" ID="qcwlan_ext7280"/>
