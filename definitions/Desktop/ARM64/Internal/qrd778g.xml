@@ -29,7 +29,7 @@
       <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Drivers\Shutdown" Name="qcshutdownsvc.inf" ID="qcshutdownsvc"/>
 	  <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Drivers\Battery\BatteryMiniclass" Name="qcbattminiclass7280.inf" ID="qcbattminiclass7280"/>
       <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Drivers\Battery\BatteryCurrentLimiter" Name="qcfgbcl7280.inf" ID="qcfgbcl7280"/>
-      <!-- <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Drivers\Graphics\DXKM" Name="qcdx7280.inf" ID="qcdx7280"/> -->
+      <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Drivers\Graphics\DXKM" Name="qcdx7280.inf" ID="qcdx7280"/>
 	  <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Drivers\Audio\ADCM" Name="qcadcm7280.inf" ID="qcadcm7280"/>
 	  <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Drivers\Audio\AudMiniport" Name="qcaudminiport_Base7280.inf" ID="qcaudminiport_Base7280"/>
 	  <DriverPackageFile Path="$(mspackageroot)\components\QC7325\Drivers\Audio\Device" Name="qcaucd7280.inf" ID="qcaucd7280"/>
