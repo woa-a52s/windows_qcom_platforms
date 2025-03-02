@@ -18,4 +18,4 @@
 	url = https://github.com/WOA-Project/windows_silicon_qcom_lanai
 [submodule "components/QC7325"]
 	path = components/QC7325
-	url = https://github.com/woa-a52s/windows_silicon_qcom_kodiak
+	url = https://github.com/project-aloha/windows_silicon_qcom_kodiak
